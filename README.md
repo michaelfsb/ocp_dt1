@@ -5,6 +5,7 @@ Code of article "Optimal Control of Battery Electric Vehicle in Energy Efficienc
 Article abtract: In energy efficiency competitions, such as the Shell Eco-marathon (SEM), vehicles must consume the least amount of energy on a fixed track with a maximum set time. Two significant factors influencing a vehicle’s energy consumption are the drive strategy and the gear ratio. This study aims to define these to minimize the consumption of a battery electric prototype, in SEM Americas 2019. Based on the mathematical model developed for the electric vehicle dynamics and the restrictions of SEM, an optimal control problem was proposed. This issue was computationally addressed. The simulated consumption for the optimal strategy was found to be three times lower than the consumption in SEM Americas 2019. Based on the results, we suggest that the time spent is the maximum allowed and that the engine is connected only in uphill.
 
 URL https://abcm.org.br/proceedings/view/CRE2020/0096
+
 DOI 10.26678/ABCM.CREEM2020.CRE2020-0096
 
 ## Dependencies
