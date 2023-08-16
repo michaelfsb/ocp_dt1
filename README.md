@@ -1,4 +1,4 @@
-# ocp_dt1
+# ocp_dt1   [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=michaelfsb/ocp_dt1&file=main.m)
 
 Code of article "Optimal Control of Battery Electric Vehicle in Energy Efficiency Competitions".
 
@@ -7,8 +7,6 @@ Article abtract: In energy efficiency competitions, such as the Shell Eco-marath
 URL https://abcm.org.br/proceedings/view/CRE2020/0096
 
 DOI 10.26678/ABCM.CREEM2020.CRE2020-0096
-
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=michaelfsb/ocp_dt1&file=main.m)
 
 ## Dependencies
 - [MATLAB](https://www.mathworks.com/products/matlab.html) R2019b
