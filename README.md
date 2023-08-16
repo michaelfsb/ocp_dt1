@@ -8,6 +8,8 @@ URL https://abcm.org.br/proceedings/view/CRE2020/0096
 
 DOI 10.26678/ABCM.CREEM2020.CRE2020-0096
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=michaelfsb/ocp_dt1&file=main.m)
+
 ## Dependencies
 - [MATLAB](https://www.mathworks.com/products/matlab.html) R2019b
   - [MATLAB Coder](https://www.mathworks.com/products/matlab-coder.html) 4.3
